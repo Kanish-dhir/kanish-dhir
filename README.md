@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **3-Tier Application Deployment**
 
-- 🌱 I’m currently learning **Kubernetes - Flux**
+- 🌱 I’m currently learning **Kubernetes**
 
 - 📫 How to reach me **kanishdhir618@gmail.com**
 
