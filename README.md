@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kanish Dhir</h1>
+<h1 align="center">Hi 👋, sda</h1>
 <h3 align="center">☁️ AWS | 🛠️ Ansible | 🔧 Jenkins | 🔄 Git/GitHub | ☸️ Kubernetes | 🐳 Docker | 📜 Shell Script</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kanish-dhir&label=Profile%20views&color=0e75b6&style=flat" alt="kanish-dhir" /> </p>
@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Kubernetes**
 
-- 📫 How to reach me **kanishdhir618@gmail.com**
+- 📫 How to reach me **m**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
